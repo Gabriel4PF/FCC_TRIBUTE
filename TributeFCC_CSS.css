@@ -47,11 +47,12 @@ margin:15px 0 5px 0;
 
 }
 
-image{
-    max-width: 100%;
+#image{
+max-width: 100%;
     display: block;
     height: auto;
     margin: 0 auto;
+
 }
 
 #tribute-title{
@@ -60,13 +61,22 @@ image{
 }
 
 ul{
-width: 50%;
+max-width: 550px;;
 margin: 50px auto;
 text-align: left;
 
 }
 li{
     margin: 16px 0;
+}
+
+
+blockquote{
+
+font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    /* text-align:  */
 }
 
 
